@@ -20,3 +20,11 @@ Style transfer relies on separating the content and style of an image. Given one
 
 
 ***Note:*** in order to run the model you need to use Cuda compatible device to train the model faster
+
+## example of the results :
+
+
+![Results](blend.jpg)
+
+
+
