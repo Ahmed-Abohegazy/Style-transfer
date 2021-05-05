@@ -14,8 +14,9 @@ Style transfer relies on separating the content and style of an image. Given one
 
  * [ ] to run :
 
-1- open style_tranfer.py 
-2- specify the content image and style image locations 
-3-run the model 
+ 1.  open style_tranfer.py 
+ 2. specify the content image and style image locations 
+ 3.  run the model 
+
 
 ***Note:*** in order to run the model you need to use Cuda compatible device to train the model faster
